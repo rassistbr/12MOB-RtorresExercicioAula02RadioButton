@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="lblMucarela">Muçarela</string>
+    <string name="lblCalabresa">Calabresa</string>
+    <string name="lblPortuguesa">Portuguesa</string>
+    <string name="lblBorda">Borda recheada?</string>
+    <string name="lblCalcular">Calcular</string>
+    <string name="lblTotal">Total:</string>
+</resources>
